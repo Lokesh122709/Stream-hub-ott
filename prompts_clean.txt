@@ -1,0 +1,80 @@
+I want to make a website to sale OTT subscription, set pricing:- 
+
+
+
+🔹 YouTube Premium – ₹20/ 1 Month
+
+🔹 Netflix Premium 4K – ₹69 / 1 Month (TV/Mobile)
+
+🔹 Spotify Premium – ₹69 / 1 Month
+
+🔹 JioHotstar Premium – ₹110 / 1 Month
+
+🔹 JioHotstar 4K Premium – ₹159 / 1 Month
+
+🔹 Amazon Prime Video – ₹149 / 1 Month
+
+🔹 Sony LIV Premium – ₹199 / 1 Month
+
+🔹 Crunchyroll Premium – ₹49 / 1 Month
+
+🔹 Apple Music – ₹130 / 1 Month
+
+🔹 Gaana Plus – ₹200 / 1 Month
+
+🔹 Canva Pro – ₹250 / 1 Month
+
+🔹 ChatGPT Plus – ₹350 / 1 Month
+
+
+
+Logo image links
+
+Youtube: data:image/png;base64, [BASE64_IMAGE_DATA] 
+
+Netflix: data:image/png;base64, [BASE64_IMAGE_DATA] 
+
+Spotify: data:image/png;base64, [BASE64_IMAGE_DATA] 
+
+Jio hotstar: data:image/jpeg;base64, [BASE64_IMAGE_DATA] 
+
+Amazon Prime: data:image/png;base64, [BASE64_IMAGE_DATA] 
+
+Sony liv: data:image/jpeg;base64, [BASE64_IMAGE_DATA] 
+
+Crunchyroll: data:image/png;base64, [BASE64_IMAGE_DATA] 
+
+Apple music: data:image/png;base64, [BASE64_IMAGE_DATA] 
+
+Gaana plus: data:image/png;base64, [BASE64_IMAGE_DATA] 
+
+Canva pro: data:image/jpeg;base64, [BASE64_IMAGE_DATA] 
+
+ChatGPT: data:image/jpeg;base64, [BASE64_IMAGE_DATA] 
+
+
+
+Disclaimer:- brand name and logo for identification purpose only
+
+
+
+UI/UX design idea:- when user open the website user have to  see all apps logo that  I have provided you. And when user click on any app logo (pop up the app logo having graphic animation) which he want then open second page where user will see the description about the OTT subscription which he chose (description will have firstly logo of the choosen app and then its name and then its feature like what benefits it include and then pricing of that app) and also show the a ‘Buy Now’ button below of the pricing. When user click on buy now button it must redirect to the third page where user see a image in a square box and having the price of that selected app just below the image also generate a button ‘I Paid’ and make the button working after 30 second and before 30 sec someone trying to that button give alert ‘First do payment’ and also show a timer of 5 minutes below the image.  (I will provide you the link of this image)  
+
+Img link:- https://cdn.imageurlgenerator.com/uploads/b078839e-9a1c-45ee-9438-b4e5da61c61a.jpg
+
+After clicking on the I paid button redirect to the whatsapp, whose link I am providing you 
+
+Whatsapp link:- https://wa.me/919024885265
+
+NOTE:- front end me koi link show nhi honi chaiye jab tak koi activity ya button click nhi hota aur animation smooth honi chaiye without any lag and website ki graphic aisi rakhna ki AI generated na lage and iska kuch kuch UI www.netbond.com jaisa hona chaiye ya usse inspired hona chaiye 
+
+
+
+ 
+
+
+
+
+
+
+

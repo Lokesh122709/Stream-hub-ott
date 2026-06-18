@@ -1,0 +1,8 @@
+{
+  "name": "Remix: OTT Subscription Store",
+  "description": "An elegant, secure online store to buy OTT subscriptions, with easy Google login and direct WhatsApp payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
